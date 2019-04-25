@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MacwebApp2", "MacwebApp2\MacwebApp2.csproj", "{964DDDD6-BA80-4891-9A12-67244A427721}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MacwebApp2.Tests", "MacwebApp2.Tests\MacwebApp2.Tests.csproj", "{60DD29B7-B12C-4EF4-AFFC-6E78E1784ACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{964DDDD6-BA80-4891-9A12-67244A427721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964DDDD6-BA80-4891-9A12-67244A427721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964DDDD6-BA80-4891-9A12-67244A427721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964DDDD6-BA80-4891-9A12-67244A427721}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60DD29B7-B12C-4EF4-AFFC-6E78E1784ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60DD29B7-B12C-4EF4-AFFC-6E78E1784ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60DD29B7-B12C-4EF4-AFFC-6E78E1784ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60DD29B7-B12C-4EF4-AFFC-6E78E1784ACC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
